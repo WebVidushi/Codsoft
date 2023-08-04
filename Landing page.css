@@ -1,0 +1,48 @@
+.cctv img{
+    position: relative;
+    top: 55px;
+    height: 560px;
+    width : 1353px;
+}
+.title-text1{
+    color: rgb(19, 7, 36);
+    position:absolute;
+    top: 150px;
+    left: 150px;
+    font-size: 70px;
+    font-family: "Times New Roman", Times, serif;
+}
+.title-text2{
+    color: rgb(19, 7, 36);
+    position:absolute;
+    top: 250px;
+    left: 152px;
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+}
+.cctv #b1{
+    position: absolute;
+    top: 340px;left: 150px;;
+    background-color: rgb(58, 90, 119); /* Green */
+    border-radius: 30px;
+    border:2px solid black;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+}
+.cctv #b2{
+    position: absolute;
+    top: 340px;left: 360px;border: 2px solid black;
+    border-radius: 30px;
+    color: rgb(13, 34, 75);
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+}
+#footer{
+    background-color: rgb(58, 90, 119);
+    color: black;
+}
